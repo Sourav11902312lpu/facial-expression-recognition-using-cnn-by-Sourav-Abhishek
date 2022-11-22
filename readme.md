@@ -7,11 +7,9 @@ Using a Convolutional Neural Network (CNN) to recognize facial expressions from 
 
 [1. Motivation]
 
-[2. Why is Fer2013 challenging?](#fer2013)
+[2. Classification results](#results)
 
-[3. Classification results](#results)
-
-[4. How to use?](#how-to-use) 
+[3. How to use?](#how-to-use) 
 - [Install the dependeciens](#install)
 - [Download and prepare the data](#data)
 - [Train the model](#train)
@@ -20,7 +18,7 @@ Using a Convolutional Neural Network (CNN) to recognize facial expressions from 
 - [Recognizing facial expressions from an image file](#recognize-image)
 - [Recognizing facial expressions in real time from video/camera](#recognize-video)
 
-[5. Contributing](#contrib)
+[4. Contributing](#contrib)
 
 <br />
 
