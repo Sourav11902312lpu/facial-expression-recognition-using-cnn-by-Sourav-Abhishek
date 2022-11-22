@@ -5,7 +5,7 @@ Using a Convolutional Neural Network (CNN) to recognize facial expressions from 
 
 ## Table of contents
 
-[1. Motivation](#motivation)
+[1. Motivation]
 
 [2. Why is Fer2013 challenging?](#fer2013)
 
